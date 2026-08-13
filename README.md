@@ -22,6 +22,25 @@
 - 📊 Currently **learning Data Science**
 - ⚡ Focused on writing clean code and staying consistent every single day
 
+<table align="center">
+  <tr>
+    <td>🔭 <b>Currently building</b></td>
+    <td>Backend projects with Java &amp; Spring</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Currently learning</b></td>
+    <td>Data Science &amp; Advanced DSA</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>2026 goal</b></td>
+    <td>Land a Backend Developer internship</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask me about</b></td>
+    <td>Java, C/C++, DBMS, Python basics</td>
+  </tr>
+</table>
+
 ---
 
 ## 🌐 Socials:
@@ -32,12 +51,27 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,spring,mongodb,mysql,git,github,vscode&theme=dark" alt="Skill Icons" />
+</p>
+
 ---
 
 ## 📈 Consistency Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-T2006&theme=react-dark&hide_border=true&area=true" alt="Atharv's Activity Graph" width="100%" />
 </p>
+
+<details>
+<summary align="center">🐍 Contribution Snake (click to see setup)</summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharv-T2006/Atharv-T2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating your contributions" width="100%" />
+</p>
+
+> This animated snake eats your contribution squares. It needs a one-time GitHub Action — ask me and I'll generate the exact workflow file for your repo (`Platane/snk` action), then this image will render automatically.
+
+</details>
 
 ---
 
