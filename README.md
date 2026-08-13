@@ -1,7 +1,3 @@
-is this better:
-
-
-
 <h1 align="center">Hi there, I'm Atharv <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
 
 <p align="center">
