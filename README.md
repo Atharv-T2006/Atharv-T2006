@@ -13,6 +13,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7A5CFF&height=180&section=header&text=&fontSize=0" width="100%" />
 </p>
 
+<p align="center">
+  < Want to be a Data Scientis , Like to be a Developer />
+</p>
+
 ---
 
 ### 🧭 About Me
