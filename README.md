@@ -9,16 +9,10 @@
 ![](https://streak-stats.demolab.com/?user=Atharv-T2006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Atharv-T2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 📊 GitHub Stats
+<h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-T2006&show_icons=true&theme=dark" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-T2006&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=Atharv-T2006&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
