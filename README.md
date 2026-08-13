@@ -18,26 +18,26 @@
 ### 🧭 About Me
 
 - 🎓 First-year **B.Tech in Information Technology** student at **VIT, Pune**
-- 💻 Aspiring **Java Backend Developer**
+- 💻 Aspiring **Data Scientist and Backend Developer**
 - 📊 Currently **learning Data Science**
 - ⚡ Focused on writing clean code and staying consistent every single day
 
 <table align="center">
   <tr>
     <td>🔭 <b>Currently building</b></td>
-    <td>Backend projects with Java &amp; Spring</td>
+    <td>Backend projects with Java &amp; Spring &amp; Developing projects related to Data Science</td>
   </tr>
   <tr>
     <td>🌱 <b>Currently learning</b></td>
-    <td>Data Science &amp; Advanced DSA</td>
+    <td>Data Science &amp; DSA</td>
   </tr>
   <tr>
     <td>🎯 <b>2026 goal</b></td>
-    <td>Land a Backend Developer internship</td>
+    <td>Land a Backend Developer or Data Analytics internship</td>
   </tr>
   <tr>
     <td>💬 <b>Ask me about</b></td>
-    <td>Java, C/C++, DBMS, Python basics</td>
+    <td>Java, C/C++, DBMS, OOP, Python, Automation in Python, MachineLearning, DeepLearning </td>
   </tr>
 </table>
 
