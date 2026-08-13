@@ -29,15 +29,15 @@
   </tr>
   <tr>
     <td>🌱 <b>Currently learning</b></td>
-    <td>Data Science &amp; DSA</td>
+    <td>Data Science &amp; Advanced DSA</td>
   </tr>
   <tr>
     <td>🎯 <b>2026 goal</b></td>
-    <td>Land a Backend Developer or Data Analytics internship</td>
+    <td>Land a Backend Developer internship</td>
   </tr>
   <tr>
     <td>💬 <b>Ask me about</b></td>
-    <td>Java, C/C++, DBMS, OOP, SpringBoot, Python, Automation in python, MachineLearning, DeepLearning</td>
+    <td>Java, C/C++, DBMS, Python basics</td>
   </tr>
 </table>
 
@@ -83,22 +83,22 @@
 
 <h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Atharv-T2006&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Atharv-T2006&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-T2006&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-T2006&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+### ✍️ Motto
+<blockquote align="center">
+  <i>"Consistency beats intensity — one commit at a time."</i>
+</blockquote>
 
 ---
 
