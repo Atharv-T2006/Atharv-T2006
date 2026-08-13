@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Atharv 👋</h1>
+<h1 align="center">Hi there, I'm Atharv <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+Java+Backend+Developer;Learning+Data+Science;B.Tech+IT+Student+%40+VIT+Pune;Consistent+%7C+Curious+%7C+Building+Everyday" alt="Typing SVG" />
@@ -41,6 +41,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Coding.gif" width="380" alt="Coding animation" />
+</p>
+
 ---
 
 ## 🌐 Socials:
@@ -59,17 +63,19 @@
 
 ## 📈 Consistency Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-T2006&theme=react-dark&hide_border=true&area=true" alt="Atharv's Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Atharv-T2006/Atharv-T2006/main/assets/consistency_graph.svg" alt="Days vs Consistency" width="100%" />
 </p>
 
+<sub align="center">Rolling 7-day consistency rate, built from real contribution data and auto-refreshed daily.</sub>
+
 <details>
-<summary align="center">🐍 Contribution Snake (click to see setup)</summary>
+<summary align="center">🐍 Contribution Snake</summary>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Atharv-T2006/Atharv-T2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating your contributions" width="100%" />
 </p>
 
-> This animated snake eats your contribution squares. It needs a one-time GitHub Action — ask me and I'll generate the exact workflow file for your repo (`Platane/snk` action), then this image will render automatically.
+<sub>Animated snake that eats through your contribution graph.</sub>
 
 </details>
 
