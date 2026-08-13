@@ -18,9 +18,8 @@ is this better:
 </p>
 
 <p align="center">
-< **Want to be a Data Scientist , Like to be a Developer** />
+  <b>&lt;&lt; Want to be a Data Scientist • Like to be a Developer &gt;&gt;</b>
 </p>
-
 ---
 
 ### 🧭 About Me
@@ -45,7 +44,7 @@ is this better:
   </tr>
   <tr>
     <td>💬 <b>Ask me about</b></td>
-    <td>Java, C/C++, DBMS, OOP, Python, Automation in Python, MachineLearning, DeepLearning </td>
+    <td>Java, C/C++, DBMS, OOP, Python, Automation in Python, Machine Learning, Deep Learning </td>
   </tr>
 </table>
 
