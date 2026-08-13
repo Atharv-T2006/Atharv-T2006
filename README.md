@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-< **Want to be a Data Scientis , Like to be a Developer** />
+< **Want to be a Data Scientist , Like to be a Developer** />
 </p>
 
 ---
