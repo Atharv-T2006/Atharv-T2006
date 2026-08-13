@@ -66,7 +66,7 @@
   <img src="https://raw.githubusercontent.com/Atharv-T2006/Atharv-T2006/main/assets/consistency_graph.svg" alt="Days vs Consistency" width="100%" />
 </p>
 
-<sub align="center">Rolling 7-day consistency rate, built from real contribution data and auto-refreshed daily.</sub>
+<sub align="center">Rolling 7-day consistency rate, built from real contribution data and auto-refreshed daily. Setup: see `assets/generate_consistency_graph.py` + the included GitHub Action.</sub>
 
 <details>
 <summary align="center">🐍 Contribution Snake</summary>
@@ -75,7 +75,7 @@
   <img src="https://raw.githubusercontent.com/Atharv-T2006/Atharv-T2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating your contributions" width="100%" />
 </p>
 
-<sub>Animated snake that eats through your contribution graph.</sub>
+<sub>Animated snake that eats through your contribution graph. Powered by the included `.github/workflows/snake.yml` — runs automatically once pushed, no manual steps needed.</sub>
 
 </details>
 
