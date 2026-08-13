@@ -99,28 +99,20 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-T2006&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
 
----
+![](https://github-profile-trophy.vercel.app/?username=Atharv-T2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Motto
-<blockquote align="center">
-  <i>"Consistency beats intensity — one commit at a time."</i>
-</blockquote>
+### ✍️ Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Atharv-T2006&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+
+![](https://github-contributor-stats.vercel.app/api?username=Atharv-T2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5CFF,100:00C2FF&height=120&section=footer" width="100%" />
-</p>
+[![](https://komarev.com/ghpvc/?username=Atharv-T2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
