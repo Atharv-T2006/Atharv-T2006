@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>💬 <b>Ask me about</b></td>
-    <td>Java, C/C++, DBMS, Python basics</td>
+    <td>Java, C/C++, DBMS, OOP, SpringBoot, Python, Automation in python, MachineLearning, DeepLearning</td>
   </tr>
 </table>
 
