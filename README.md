@@ -69,10 +69,9 @@ is this better:
 ---
 
 ## 📈 Consistency Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atharv-T2006/Atharv-T2006/main/assets/consistency_graph.svg" alt="Days vs Consistency" width="100%" />
-</p>
-
+<img src="https://raw.githubusercontent.com/Atharv-T2006/Atharv-T2006/main/consistency_graph.svg"
+     alt="Days vs Consistency"
+     width="100%" />
 <sub align="center">Rolling 7-day consistency rate, built from real contribution data and auto-refreshed daily. Setup: see `assets/generate_consistency_graph.py` + the included GitHub Action.</sub>
 
 <details>
