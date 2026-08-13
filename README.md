@@ -29,11 +29,11 @@
   </tr>
   <tr>
     <td>🌱 <b>Currently learning</b></td>
-    <td>Data Science &amp; Advanced DSA</td>
+    <td>Data Science &amp; DSA</td>
   </tr>
   <tr>
     <td>🎯 <b>2026 goal</b></td>
-    <td>Land a Backend Developer internship</td>
+    <td>Land a Backend Developer or Data Analytics internship</td>
   </tr>
   <tr>
     <td>💬 <b>Ask me about</b></td>
